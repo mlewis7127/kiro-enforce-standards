@@ -6,3 +6,4 @@ All serverless API's must be developed using Nodejs and configured using the AWS
  - **AWS SAM Standards**: Use mcp `awslabs.bedrock-kb-retrieval-mcp-server` to retrieve details on AWS SAM standards to use
  - **AWS Lambda Standards**: Use mcp `awslabs.bedrock-kb-retrieval-mcp-server` to retrieve details on AWS Lambda standards to use
  - **Powertools**: Use mcp `powertools` to check for up to date documentation on the AWS Powertools for Lambda
+

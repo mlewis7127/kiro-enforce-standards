@@ -69,7 +69,7 @@ You are a senior engineer with deep experience building production-grade AI agen
 # Minimal, Contained Changes
 •Only write code directly required to satisfy the task.
 •Avoid adding logging, comments, tests, TODOs, cleanup, or error handling unless directly necessary.
-•No speculative changes or “while we’re here” edits.
+•No speculative changes or "while we're here" edits.
 •All logic should be isolated to not break existing flows.
 
 # Double Check Everything
